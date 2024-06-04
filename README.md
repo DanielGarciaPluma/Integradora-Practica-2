@@ -10,7 +10,7 @@ para marcar alguna seccion o subseccion estos se marcan  utilizando el simbolo #
 ejemplo:
 # Encabezado de nivel 1
 ## Encabezado de nivel 2
-### ncabezado de nivel 3
+### Encabezado de nivel 3
 #### Encabezado de nivel 4
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
