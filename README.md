@@ -46,29 +46,15 @@ Lo que en una pagina utilizariamos usando la etiqueta < p >.
 
 Tambien podemos aplicar estilos basicos de alineacion :
 
-Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto 
-Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto 
-Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto 
-Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto 
-Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto 
+Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto 
 
-<p aling="rigth">
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion </p>
+<p aling="rigth">Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion </p>
 
 <p aling= "center">
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion </p>
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion </p>
 
 <p aling= "justify">
-Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion  
-Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion  
-Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion  </p>
+Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion  </p>
 
 
 ### 4. Texto Enfatizado (BOLD, ITALIC, BOLD/ITALIC)
@@ -79,8 +65,7 @@ Para poner el texto en negrita, este debera ser encerrado entre dobles **
 
 Ejemplo:
 
-Texto Texto Texto Texto **Texto importante** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
-Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+Texto Texto Texto Texto **Texto importante** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
 
 #### Texto en cursiva (ITALIC)
 
@@ -89,25 +74,17 @@ podemos realizar ubicando el texto entre *(asteriscos)
 
 Ejemplo:
 
-Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
-Texto Texto Texto Texto Texto Texto *Texto Cursivo* Texto Texto Texto Texto Texto Texto Texto Texto Texto 
-Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto Cursivo* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
 
 ##### Texto en negrita y cursiva (BOLD & ITALIC)
-De igualmanera podemos unir ambos estilos **Negrita** y *Cursiva* para resaltar los textos que consideremos
-importantes dentro de la documentacion de nuestros proyectos de software, utilizando un triple * (asterico)
+De igualmanera podemos unir ambos estilos **Negrita** y *Cursiva* para resaltar los textos que consideremos importantes dentro de la documentacion de nuestros proyectos de software, utilizando un triple * (asterico)
 
-Texto Texto Texto Texto Texto Texto ***Texto en Negrita y Cursiva*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
-Texto Texto Texto Texto Texto Texto texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
-Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+Texto Texto Texto Texto Texto Texto ***Texto en Negrita y Cursiva*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
 
 ##### Subrayado (UNDERLINE)
 
-Algunas veces necesitaremos subraya texto de la documentacion para ello, si bien Markdown no tiene un atajo o codificacion rapida 
-podemos utilizar el estilo que usa el estandar de HTML usando el tag <u> y  cerrando con </U>
+Algunas veces necesitaremos subraya texto de la documentacion para ello, si bien Markdown no tiene un atajo o codificacion rapida podemos utilizar el estilo que usa el estandar de HTML usando el tag <u> y  cerrando con </U>
 
 **EJEMPLO**
-Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto
- Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
- Texto Texto Texto Texto  Texto Texto Texto Texto Texto Texto Texto <U> Texto Subrayado</U> Texto.
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto  Texto Texto Texto Texto  Texto Texto Texto Texto Texto Texto Texto <U> Texto Subrayado</U> Texto.
 
