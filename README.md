@@ -120,7 +120,7 @@ C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root -p password < respaldo sql
 sí en nuestra documentación necesitamos incluir información de texto en modo de lista, un elemento tras otro podemos
 hacerlo utilizando los números con un punto decimal si las deseamos ordenadas o un guion en medio - si solo queremos una viñeta 
 
-*EJEMPLO*
+*EJEMPLO:*
 
 Para poder crear tu primero repositorio en GitHub deveras;
   
@@ -149,9 +149,11 @@ las ligas utilizadas para vincular elementos o referencias del proyecto dentro d
 
 **EJEMPLO:**
 
-Mi buscardor favorito es:[www.google.com]/(https://gogle.com)
+Mi buscardor favorito es:[www.google.com]/(https://www.google.com)
 Pero si deseas poner solo las ligas directas a un correo electronico podemos utilizar los simbolos \<\>
 
 **EJEMPLO:**
-Documetacion creada por ***Carlos Daniel Garcia Pluma***
-(<cg419370@gmail.com>)(<htpp://www.utxicotepec.edu.mx>)
+Documetacion creada por: ***Carlos Daniel Garcia Pluma***
+(<cg419370@gmail.com>)
+
+(<htpp://www.utxicotepec.edu.mx>)
