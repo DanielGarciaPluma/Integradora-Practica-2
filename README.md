@@ -156,4 +156,4 @@ Pero si deseas poner solo las ligas directas a un correo electronico podemos uti
 Documetacion creada por: ***Carlos Daniel Garcia Pluma***
 (<cg419370@gmail.com>)
 
-(<htpp://www.utxicotepec.edu.mx>)
+(<http://www.utxicotepec.edu.mx>)
