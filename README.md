@@ -86,3 +86,72 @@ Algunas veces necesitaremos subraya texto de la documentacion para ello, si bien
 **EJEMPLO**
 Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto  Texto Texto Texto Texto  Texto Texto Texto Texto Texto Texto Texto <ins> TEXTO SUBRAYADO</ins> Texto.
 
+### 5. Cuadros para codigp o reseñas (BLOCKQUOTES)
+
+Estos elementos son utilizados para resaltar instrucciones especificas para la instalacion, configuracion y/o  mostar secciones de codigo fuente. Se maqueta inciando el texto con un simbolo de mayor que (/>)
+
+**EJEMPLO:**
+para alistar las carpetas y archivos en desde una terminal de sistemas operativos de windos debemos ingresar el comando:
+
+> C:/dir 
+Despues oprimimos la tecla "Enter".
+Tambien podemos ingresar texto multilinea
+
+**Ejemplo:**
+
+>Aqui se ingresa un conjuto de instrucciones 
+>Para explicar al usuario, como instalar el 
+>sofware que hemos diseñado
+
+Y si deseamos incluir viñetas par enlistar pasos podemos utilizar el caracter - dentro del texto a documentar. 
+
+*EJEMPLO:*
+
+*PASOS PARA INSTALAR LA BASE DE DATOS*
+
+>- Decargar MySQL Server del Sitio Oficial 
+>- instalar el Sistema Gestor de Base de Datos definiendo el puesto y la contraseña para el usuario **root**
+>-Descargamos el archivo de respaldo de la base de datos (.sql)
+>-restauramos la Base de Datos usando el comando mysql
+C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root -p password < respaldo sql
+
+*6. Listas ordenadas y Desordenadas*
+
+sí en nuestra documentación necesitamos incluir información de texto en modo de lista, un elemento tras otro podemos
+hacerlo utilizando los números con un punto decimal si las deseamos ordenadas o un guion en medio - si solo queremos una viñeta 
+
+*EJEMPLO*
+
+Para poder crear tu primero repositorio en GitHub deveras;
+  
+1.Contar con una cuenta GitHub
+   
+2.Dar clic en el botón *Nuevo Repositorio
+
+3.Asignarle un nombre a tu repositorio, por ejemplo: 'ptactica03-3b'
+
+4.Asignarle un nivel de privacidad entre 
+
+-**PUBLICO:** Si quieres que este disponible para todos los usuarios.
+
+-**PRIVADO:** Si deseas que solo a quien decidas puedan colaborar con tu proyecto.
+
+10.Definir si incluye un archivo de descripción llamado: README.md
+
+11.Definir si habrá exclusiones de archivo a través del archivo a través del archivo : gitignore
+
+12. Guardar los cambios 
+
+
+#### 7. Ligas (Hipervínculos)
+
+las ligas utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando lo corchetes \[ \], inmediatamente después pondremos la liga de referencia entre paréntesis /()
+
+**EJEMPLO:**
+
+Mi buscardor favorito es:[www.google.com]/(https://gogle.com)
+Pero si deseas poner solo las ligas directas a un correo electronico podemos utilizar los simbolos \<\>
+
+**EJEMPLO:**
+Documetacion creada por ***Carlos Daniel Garcia Pluma***
+(<cg419370@gmail.com>)(<htpp://www.utxicotepec.edu.mx>)
