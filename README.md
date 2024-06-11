@@ -115,7 +115,7 @@ Y si deseamos incluir viñetas par enlistar pasos podemos utilizar el caracter -
 >-restauramos la Base de Datos usando el comando mysql
 C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root -p password < respaldo sql
 
-*6. Listas ordenadas y Desordenadas*
+###*6. Listas ordenadas y Desordenadas*
 
 sí en nuestra documentación necesitamos incluir información de texto en modo de lista, un elemento tras otro podemos
 hacerlo utilizando los números con un punto decimal si las deseamos ordenadas o un guion en medio - si solo queremos una viñeta 
@@ -149,7 +149,7 @@ las ligas utilizadas para vincular elementos o referencias del proyecto dentro d
 
 **EJEMPLO:**
 
-Mi buscardor favorito es:[www.google.com]/(https://www.google.com)
+Mi buscardor favorito es:[www.google.com] / (https://www.google.com)
 Pero si deseas poner solo las ligas directas a un correo electronico podemos utilizar los simbolos \<\>
 
 **EJEMPLO:**
