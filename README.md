@@ -157,3 +157,39 @@ Documetacion creada por: ***Carlos Daniel Garcia Pluma***
 (<cg419370@gmail.com>)
 
 (<http://www.utxicotepec.edu.mx>)
+
+### 8. Tablas (TABLES)
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas, para maquetarlas podemos utiliziar el carácter delimitar /| para delifitar las columnas y /- para delimitar las filas.
+**EJEMPLO:
+
+|Encabezado 1 |Encabezado 2 |Encabezado 3 |Encabezado 4|
+|-------------|-------------|-------------|------------|
+|Fila 1 Celda 1|Fila 1 celda 2|Fila 1 celda 3|Fila 1 celda 4|
+|Fila 2 Celda 1|Fila 2 celda 2|Fila 2 celda 3|Fila 2 celda 4|
+|Fila 3 Celda 1|Fila 3 celda 2|Fila 3 celda 3|Fila 3 celda 4|
+
+En caso de necesitar la funsión de celdas en columnas usaremos la proiedad "colspan" del tag <td< y en el caso de necesitar la fusión de las filas utilizaremos la propiedad rowspan.
+
+**EJEMPLO:**
+
+|Encabezado 1 |Encabezado 2 |Encabezado 3 |Encabezado 4|
+|-------------|-------------|-------------|------------|
+|Fila 1 Celda 1|Fila 1 celda 2|Fila 1 celda 3|Fila 1 celda 4|
+|Fila 2 Celda 1|Fila 2 celda 2|              |Fila 2 celda 4|
+|Fila 3 Celda 1|Fila 3 celda 2|Fila 3 celda 3|Fila 3 celda 4|
+|              |Fila 4 celda 2|Fila 4 celda 3|Fila 4 celda 4|
+|              |Fila 5 celda 2|Fila 5 celda 3|Fila 5 celda 4|
+|Fila 6 Celda 1|Fila 6 celda 2|Fila 6 celda 3|Fila 6 celda 4|
+
+Dado que en el ejemplo pasado usando solo markdown no se puede realizar la funcion de las filas debemos utilizar el estandar de HTML, usando los tags: <th> para los encabezados, <tr> para las filas y para las celdas, y en ellos utilizar la propiedad de colspan y rowspan
+
+**EJEMPLO:**
+|Encabezado 1 |Encabezado 2|Encabezado 3|Encabezado 4 |
+|Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
+|Fila 2 Celda 1|              |Fila 2 Celda 2|              |
+|Fila 3 Celda 1|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
+|              |Fila 4 Celda 2|Fila 4 Celda 3|Fila 4 Celda 4|
+|              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
+|Fila 5 Celda 1|Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
+
+
