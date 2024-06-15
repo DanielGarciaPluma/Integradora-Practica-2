@@ -184,7 +184,9 @@ En caso de necesitar la funsión de celdas en columnas usaremos la proiedad "col
 Dado que en el ejemplo pasado usando solo markdown no se puede realizar la funcion de las filas debemos utilizar el estandar de HTML, usando los tags: <th> para los encabezados, <tr> para las filas y para las celdas, y en ellos utilizar la propiedad de colspan y rowspan
 
 **EJEMPLO:**
-|Encabezado 1 |Encabezado 2|Encabezado 3|Encabezado 4 |
+
+|Encabezado 1 |Encabezado 2 |Encabezado 3 |Encabezado 4|
+|-------------|-------------|-------------|------------|
 |Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
 |Fila 2 Celda 1|              |Fila 2 Celda 2|              |
 |Fila 3 Celda 1|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
