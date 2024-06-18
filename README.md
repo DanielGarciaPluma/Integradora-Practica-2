@@ -143,7 +143,7 @@ Para poder crear tu primero repositorio en GitHub deveras;
 12. Guardar los cambios 
 
 
-#### 7. Ligas (Hipervínculos)
+### 7. Ligas (Hipervínculos)
 
 las ligas utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando lo corchetes \[ \], inmediatamente después pondremos la liga de referencia entre paréntesis /()
 
@@ -158,7 +158,7 @@ Documetacion creada por: ***Carlos Daniel Garcia Pluma***
 
 (<http://www.utxicotepec.edu.mx>)
 
-#### 8. Tablas (Tables)
+### 8. Tablas (Tables)
 Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas, para maquetarlas podemos utilizar el caracter \| para delimitar las columnas y \- para delimitar las filas.
 
 **Ejemplo**
