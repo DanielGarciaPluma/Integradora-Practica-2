@@ -194,4 +194,10 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la funci
 |              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 |Fila 5 Celda 1|Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 
+### 9. Imagenes
+
+I
+Para agregar imagenes debemos subiria al repositorio, en la opcion de subir archivos seleccionaremos las imagenes a subir, debemos darle en la opcion de commit changes para guardandas, una vez guardades, entraremos accediendo a las imagenes cargadas en nuestro repositorio para poder copier su URL de cada una, para insertarlas y que se muestren utilizaremos la sintaxis de Markdown para Imágenes, ![Texto alternative de la imagen] (Url de la imagen cargada).
+
+**Imagenes del proyecto**
 
