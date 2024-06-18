@@ -105,40 +105,40 @@ Tambien podemos ingresar texto multilinea
 
 Y si deseamos incluir viñetas par enlistar pasos podemos utilizar el caracter - dentro del texto a documentar. 
 
-*EJEMPLO:*
+**EJEMPLO:**
 
 *PASOS PARA INSTALAR LA BASE DE DATOS*
 
 >- Decargar MySQL Server del Sitio Oficial 
 >- instalar el Sistema Gestor de Base de Datos definiendo el puesto y la contraseña para el usuario **root**
->-Descargamos el archivo de respaldo de la base de datos (.sql)
->-restauramos la Base de Datos usando el comando mysql
+>- Descargamos el archivo de respaldo de la base de datos (.sql)
+>- restauramos la Base de Datos usando el comando mysql
 C:/ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root -p password < respaldo sql
 
-###*6. Listas ordenadas y Desordenadas*
+### *6. Listas ordenadas y Desordenadas*
 
 sí en nuestra documentación necesitamos incluir información de texto en modo de lista, un elemento tras otro podemos
 hacerlo utilizando los números con un punto decimal si las deseamos ordenadas o un guion en medio - si solo queremos una viñeta 
 
-*EJEMPLO:*
+**EJEMPLO:**
 
 Para poder crear tu primero repositorio en GitHub deveras;
   
-1.Contar con una cuenta GitHub
+1. Contar con una cuenta GitHub
    
-2.Dar clic en el botón *Nuevo Repositorio
+2. Dar clic en el botón *Nuevo Repositorio
 
-3.Asignarle un nombre a tu repositorio, por ejemplo: 'ptactica03-3b'
+3. Asignarle un nombre a tu repositorio, por ejemplo: 'ptactica03-3b'
 
-4.Asignarle un nivel de privacidad entre 
+4. Asignarle un nivel de privacidad entre 
 
--**PUBLICO:** Si quieres que este disponible para todos los usuarios.
+- **PUBLICO:** Si quieres que este disponible para todos los usuarios.
 
--**PRIVADO:** Si deseas que solo a quien decidas puedan colaborar con tu proyecto.
+- **PRIVADO:** Si deseas que solo a quien decidas puedan colaborar con tu proyecto.
 
-10.Definir si incluye un archivo de descripción llamado: README.md
+10. Definir si incluye un archivo de descripción llamado: README.md
 
-11.Definir si habrá exclusiones de archivo a través del archivo a través del archivo : gitignore
+11. Definir si habrá exclusiones de archivo a través del archivo a través del archivo : gitignore
 
 12. Guardar los cambios 
 
